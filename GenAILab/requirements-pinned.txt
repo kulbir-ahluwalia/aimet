@@ -2,6 +2,6 @@
 # Auto-updated by the dep-bump workflow — do not edit manually.
 transformers==5.10.1
 tokenizers==0.22.2
-datasets==4.8.4
+datasets==5.0.1
 peft==0.18.0
 huggingface_hub[cli]==1.10.2
